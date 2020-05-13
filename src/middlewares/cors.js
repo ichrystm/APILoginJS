@@ -11,5 +11,4 @@ module.exports = (req, res, next) => {
     app.use(cors());
     next();
 
-    //console.log("Middleware!");
 }
