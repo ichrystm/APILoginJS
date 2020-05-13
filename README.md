@@ -11,9 +11,10 @@ Este repositório contém uma API Desenvolvida em NodeJS que se conecta a um ban
 # Funcionalidades
 1. Cadastro de novos usuários no banco.
 (Somente um usuário por e-mail)
-
 2. Criptografia de senhas no ato do cadastro.
+3. Realizar login após cadastrado
 
-# Futuras atualizações
-1. Será possível se autenticar após o cadastro
-2. Será implementado ao projeto Loginjs (https://github.com/ichrystm/LoginJS)
+# v1.1
+
+1. É possível se autenticar após o cadastro
+2. Integrado ao projeto Loginjs-v2 (https://github.com/ichrystm/LoginJS-v2)
